@@ -2,12 +2,12 @@
 
 An interactive Power BI dashboard analyzing the relationship between domestic $CO_2$ emissions, energy efficiency, property types, and housing tenure across the United Kingdom (2013–2023).
 
-## 📊 Project Overview
+##  Project Overview
 This dashboard was developed to visualize how residential energy efficiency correlates with carbon output. By analyzing spatial, temporal, and multidimensional factors, the report identifies which sectors of the UK housing market are leading in efficiency and which are lagging behind.
 
-### 🖼️ Dashboard Previews
 
-## 🖼️ Dashboard Previews
+
+##  Dashboard Previews
 
 ### 1. Location View
 Focuses on geographical distribution across the UK, identifying emission hotspots by region.
@@ -35,7 +35,7 @@ Explores the correlation between efficiency and emissions, featuring a scatter p
 
 ---
 
-## 🛠️ Technical Features
+##  Technical Features
 * **Dynamic Navigation:** Implemented a custom button-based navigation bar (Location, Temporal, Multidimensional) for a seamless user experience.
 * **Synchronized Slicers:** Global filters for "Region" and "Year" allow for granular drill-downs that persist across different report pages.
 * **Data Modeling:** Integrated multiple variables including tenure, property type, and regional coordinates from a single cleaned Excel source.
@@ -43,14 +43,14 @@ Explores the correlation between efficiency and emissions, featuring a scatter p
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
-├── report/
+├── Report/
 │   └── dash.pbix               # Power BI Desktop file
-├── data/
+├── Data/
 │   └── co2abdefficiency.xlsx   # Source dataset
-├── screenshots/
-│   ├── location-view.png       
-│   ├── temporal-view.png       
-│   └── multidimensional-view.png 
+├── Screenshots/
+│   ├── Location.png       
+│   ├── Temporalpng       
+│   └── Multidimensional.png 
 └── README.md
