@@ -9,7 +9,7 @@ This dashboard was developed to visualize how residential energy efficiency corr
 
 | Location View | Temporal View | Multidimensional View |
 | :--- | :--- | :--- |
-| ![Location](screenshots/location-view.png) | ![Temporal](screenshots/temporal-view.png) | ![Multidimensional](screenshots/multidimensional-view.png) |
+| ![Location](screenshots/location.png) | ![Temporal](screenshots/temporal.png) | ![Multidimensional](screenshots/multidimensional.png) |
 
 ---
 
