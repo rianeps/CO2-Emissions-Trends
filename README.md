@@ -7,9 +7,23 @@ This dashboard was developed to visualize how residential energy efficiency corr
 
 ### 🖼️ Dashboard Previews
 
-| Location View | Temporal View | Multidimensional View |
-| :--- | :--- | :--- |
-| ![Location](Screenshots/Location.png) | ![Temporal](Screenshots/Temporal.png) | ![Multidimensional](Screenshots/Multidimensional.png) |
+## 🖼️ Dashboard Previews
+
+### 1. Location View
+Focuses on geographical distribution across the UK, identifying emission hotspots by region.
+![Location View](Screenshots/Location.png)
+
+---
+
+### 2. Temporal View
+Tracks energy efficiency trends over a 10-year period (2013–2023), highlighting the sharp upward trend in recent years.
+![Temporal View](Screenshots/Temporal.png)
+
+---
+
+### 3. Multidimensional View
+Explores the correlation between efficiency and emissions, featuring a scatter plot and tenure-based analysis.
+![Multidimensional View](Screenshots/Multidimensional.png)
 
 ---
 
